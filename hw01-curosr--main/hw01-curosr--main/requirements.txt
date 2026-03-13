@@ -1,0 +1,2 @@
+# Eight Queens Solver - dependencies
+pytest>=7.0.0
